@@ -20,6 +20,7 @@ body{
     width: 100vw;
     flex-wrap: wrap;
     box-sizing: border-box;
+    overflow: hidden;
 }
 button{
     color:#333;
